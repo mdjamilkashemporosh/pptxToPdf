@@ -2,14 +2,18 @@
 
 `pptxToPdf` is a dockerized application designed to effortlessly convert PowerPoint presentations (.pptx) into PDF files using LibreOffice.
 
-# Features
+## Features
 - Dockerized: Easy to deploy and run in any environment with Docker.
 - Automated Conversion: Converts .pptx files to PDF seamlessly.
+  
+## Demo
+Check out the application in action:
 
-# Prerequisites
+
+## Prerequisites
 - Docker installed on your machine.
 
-# Getting Started
+## Getting Started
 
 Clone this repository to your local machine:
 
