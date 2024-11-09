@@ -1,0 +1,8 @@
+version: '3.8'
+
+services:
+  ppt-to-pdf:
+    build: .
+    container_name: ppt_to_pdf_converter
+    volumes:
+      - ./:/app/
