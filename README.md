@@ -12,7 +12,7 @@
 - Docker installed on your machine.
 
 ## Getting Started
-
+> This application depends on LibreOffice packages, which are being installed during the image-building process. If you try to run the app directly without the provided Docker image, it might not work.
 Clone this repository to your local machine:
 
 ```
