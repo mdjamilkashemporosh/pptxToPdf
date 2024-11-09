@@ -11,7 +11,16 @@
 
 # Getting Started
 
+Clone this repository to your local machine:
 
+```
+git clone https://github.com/mdjamilkashemporosh/PPT2PDF.git
+```
+Start the application:
+```bash
+docker compose up
+```
+> Here, I've placed a sample PPTX file. When you run the Node application, the code will automatically convert it into a PDF. As soon as the file is converted successfully, the PDF will appear in your repository directory. You can make modifications as per your requirements, create APIs, and so on.
 
 ## Contributing
 
